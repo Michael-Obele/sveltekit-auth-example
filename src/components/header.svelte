@@ -31,6 +31,7 @@
     <ul class="navItems">
       <li class="navItem"><a href="/">Home</a></li>
       <li class="navItem"><a href="/protected">Protected</a></li>
+      <li class="navItem"><a href="/admin">Admin</a></li>
     </ul>
   </nav>
 </header>

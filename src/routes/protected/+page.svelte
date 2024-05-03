@@ -12,3 +12,5 @@
 {:else}
   <h1>Access Denied</h1>
 {/if}
+
+{JSON.stringify($page)}
